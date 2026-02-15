@@ -1,7 +1,7 @@
-# DevCompanion AI - Hackathon Project Vision
+# AI DevCompanion- Hackathon Project Vision
 
 ## 1. Project Background
-**DevCompanion AI** is our team's submission for the **Hack2Skill Hackathon**. As a team of four, we set out to tackle one of the most persistent pain points in software development: the time lost to inefficient debugging.
+**AI DevCompanion** is our team's submission for the **Hack2Skill Hackathon**. As a team of four, we set out to tackle one of the most persistent pain points in software development: the time lost to inefficient debugging.
 
 ## 2. The Problem Statement
 In a fast-paced development environment (like a hackathon!), time is critical. Yet, developers often spend hours:
@@ -11,7 +11,7 @@ In a fast-paced development environment (like a hackathon!), time is critical. Y
 - Manually parsing thousands of lines of terminal logs.
 
 ## 3. Our Solution
-We built **DevCompanion AI** to turn debugging into a seamless, learning-focused experience. Led by me, our team integrated modern AI capabilities directly into the developer workflow. Instead of just "fixing" bugs, our tool explains *why* they happened, fostering long-term growth.
+We built **AI DevCompanion** to turn debugging into a seamless, learning-focused experience. Led by me, our team integrated modern AI capabilities directly into the developer workflow. Instead of just "fixing" bugs, our tool explains *why* they happened, fostering long-term growth.
 
 ## 4. Key Features (MVP)
 Our hackathon prototype includes the following modules:
